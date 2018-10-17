@@ -1,0 +1,4 @@
+tree,time,unit
+bst,58141,microseconds
+avl,22429,microseconds
+splay,22666,microseconds
